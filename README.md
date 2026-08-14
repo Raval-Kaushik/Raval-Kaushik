@@ -3,7 +3,7 @@
 <h3 align="center">Senior Android Engineer | 5+ Years Experience | Kotlin | Jetpack Compose | KMP | CMP</h3>
 
 <p align="center">
-  • 🚀 Building scalable Android apps  • 💡 Clean Architecture Enthusiast
+  • 🚀 Building scalable Android apps • 💡 Clean Architecture Enthusiast
 </p>
 
 ---
