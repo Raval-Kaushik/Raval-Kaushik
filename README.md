@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kaushik+Raval;Senior+Android+Engineer;Kotlin+%7C+Jetpack+Compose+%7C+KMP" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kaushik+Raval;Senior+Android+Engineer;Kotlin+%7C+Jetpack+Compose+%7C+XML" alt="Typing SVG" /> </div>
 <h3 align="center">Senior Android Engineer | 5+ Year's Experience | Kotlin | Jetpack Compose | XML | KMP</h3>
 
 <p align="center">
